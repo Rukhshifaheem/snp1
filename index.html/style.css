@@ -1,0 +1,146 @@
+
+
+#brand {
+    background-color: black;
+}
+
+.btn {
+    font-size: 0.6rem;
+}
+
+span {
+    font-family: "Shrikhand", serif;
+    font-weight: bold;
+}
+
+#para {
+    color: rgb(185, 183, 183);
+    
+}
+
+
+#franchise {
+    background-color: rgb(18, 17, 17);
+    
+}
+
+#franchise h6 {
+    letter-spacing: 0.5rem;
+}
+
+#franchise p {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(191, 188, 188);
+    font-size: 0.8rem;
+}
+
+#p {
+    font-size: 1.5rem !important;
+    
+}
+
+.item a {
+    text-decoration: none;
+    color: rgb(189, 186, 186);
+}
+
+#btn-a {
+    color: white;
+    margin: 20px;
+    font-size: 0.6rem; 
+    background-image: url(./image/arrow1-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-position: 95%;
+    padding-right: 40px;
+}
+
+#express {
+    background-color: black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.card-title {
+    font-size: 0.4rem;
+    letter-spacing: 0.3rem;
+}
+
+.card-text {
+    color: rgb(146, 142, 142);
+    font-size: 0.8rem;
+}
+
+#village {
+    background-color: rgb(16, 16, 16);
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#comingsoon {
+    background-color: black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#open {
+    font-size: 1.4rem;
+    padding-left: 18px;
+}
+
+#btn-b {
+    width: 170px;
+    height: 47px;
+    border-radius: 30px;
+    color: white;
+    margin-left: 105px;
+    
+    font-size: 0.6rem; 
+    background-image: url(./image/arrow1-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-position: 85%;
+    padding-right: 40px;
+}
+
+#footer {
+    background-color: rgb(20, 20, 20);
+    font-size: 0.7rem;
+    color: rgb(171, 169, 169);
+    
+    
+}
+
+#footer h6 {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    
+}
+
+#footer li {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    line-height: 35px;
+    
+}
+
+#footer a {
+    text-decoration: none;
+}
+
+#footer a:link {
+    color: rgb(171, 169, 169);
+}
+
+#foot {
+    background-color: rgb(20, 20, 20);
+    font-size: 0.8rem;
+    color: rgb(171, 169, 169);
+    border-top: 1px solid rgb(45, 45, 45);
+    
+}
+
+
+
+
+
+

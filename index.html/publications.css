@@ -1,0 +1,73 @@
+.navbar {
+    background-color: black;
+    border-bottom: 1px solid rgb(35, 34, 34);
+}
+
+#book {
+    background-color: black;
+    color: white;
+}
+
+#book img {
+    transition: transform 0.5s ease;
+}
+
+#book img:hover {
+    transform: scale(1.1);
+}
+
+#info h3 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#info p,a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.7rem;
+    color: rgb(174, 172, 172);
+}
+
+#info a {
+    text-decoration: none;
+}
+
+#info p::first-line {
+    color: white;
+    font-size: 0.8rem;
+}
+
+#footer {
+    background-color: rgb(20, 20, 20);
+    font-size: 0.7rem;
+    color: rgb(171, 169, 169);
+    
+}
+
+#footer h6 {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    
+}
+
+#footer li {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    line-height: 35px;
+    
+}
+
+#footer a {
+    text-decoration: none;
+}
+
+#footer a:link {
+    color: rgb(171, 169, 169);
+}
+
+#foot {
+    background-color: rgb(20, 20, 20);
+    font-size: 0.8rem;
+    color: rgb(171, 169, 169);
+    border-top: 1px solid rgb(45, 45, 45);
+    
+}
